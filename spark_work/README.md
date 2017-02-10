@@ -18,3 +18,6 @@ Refer to the MovieLense folder for project material.
 - Movie Lense Dataset: Will not be contained due to size. please put data into data folder if you would like to follow along.
 - Ouch, just realized that scala is based off java and it may be painful to not program in an IDE. Humm, I wonder how far I would be able to go without it.
 - Humm that was short lived. I already installed the IDE because a lot of the importations done for this course are done quick rapidly via the IDE. The course seems like it would be difficult to follow without using the same IDE.
+- Got my first java package running in the scala IDE. I found it odd that we imported all the spark external jars for this course. I seems like too much.
+- So far everything has been pretty easy to do, and I'm excited to learn some scala.
+
